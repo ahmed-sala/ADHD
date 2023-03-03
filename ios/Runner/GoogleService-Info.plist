@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>922774400558-n18r3mo9rm20t18tdgadoancgbni6uf7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922774400558-n18r3mo9rm20t18tdgadoancgbni6uf7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>922774400558-6tcuncn70g3o9554n5g43r2lhdvbv9jd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAo26gb6NMao1JiZ9WgBk1j3k8OOj2uSOw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922774400558</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newAdhd</string>
+	<key>PROJECT_ID</key>
+	<string>adhd-d1c17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adhd-d1c17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922774400558:ios:c11c30ae16056fb75579bf</string>
+</dict>
+</plist>
